@@ -1,3 +1,3 @@
 fun main() {
-    var r = 5.2
+    var var = 5.2
 }
