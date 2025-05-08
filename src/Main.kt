@@ -1,4 +1,3 @@
 fun main() {
-    val earthIsRound: Boolean = true
-    val earthIsFlat: Boolean = false
+    val text: String = "This is a string"
 }
