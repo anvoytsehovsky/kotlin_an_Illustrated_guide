@@ -1,3 +1,5 @@
 fun main() {
-    val text: String = "This is a string"
+    var numberOfDogs: Int = 5
+    numberOfDogs = "five"
+
 }
