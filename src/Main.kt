@@ -1,4 +1,4 @@
 fun main() {
-    var radius = 5.2
-    val pi = 3.14
+    var radius: Double = 5.2
+    val pi: Double = 3.14
 }
