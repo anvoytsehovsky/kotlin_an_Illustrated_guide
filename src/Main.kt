@@ -9,4 +9,6 @@ fun main() {
 
     radius = 10.0
     val  circumferenceOfLargeCircle = 2 * pi * radius
+
+    fun circumference(radius: Double) = 2 * pi * radius
 }
