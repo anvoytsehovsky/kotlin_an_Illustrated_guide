@@ -4,5 +4,5 @@ fun main() {
 
     fun circumference(radius: Double) = 2 * pi * radius
 
-    val circumferenceOfSmallCircle = 2 * pi * radius
+    val circumferenceOfSmallCircle = 2 * pi * 5.2
 }
