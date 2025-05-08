@@ -1,5 +1,5 @@
 fun main() {
-    var numberOfDogs: Int = 5
-    numberOfDogs = "five"
-
+    val pi = 3.14
+    var radius = 5.2
+    val circumference = 2 * pi * radius
 }
