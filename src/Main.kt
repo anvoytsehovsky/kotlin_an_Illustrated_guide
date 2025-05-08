@@ -9,5 +9,8 @@ fun main() {
     val drivingSpeed = speed(42.195, 0.37)
     val flyingSpeed = speed(0.12, 0.01)
 
-
+    println(walkingSpeed)
+    println(bikingSpeed)
+    println(drivingSpeed)
+    println(flyingSpeed)
 }
