@@ -2,7 +2,7 @@ fun main() {
     val distance = 321.8
     val time = 4.15
 
-    fun speed(distance: Double, time: Double = 2.0) = distance / time
+    fun speed(distance: Double = 42.195, time: Double) = distance / time
 
     val walkingSpeed = speed(42.195, 8.27)
     val bikingSpeed = speed(42.195, 2.85)
