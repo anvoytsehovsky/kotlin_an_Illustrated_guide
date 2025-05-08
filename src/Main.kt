@@ -1,3 +1,4 @@
 fun main() {
-    val numberOfDogs: Int = 3
+    val earthIsRound: Boolean = true
+    val earthIsFlat: Boolean = false
 }
