@@ -1,3 +1,3 @@
 fun main() {
-    var radius = 5.2
+    val numberOfDogs: Int = 3
 }
