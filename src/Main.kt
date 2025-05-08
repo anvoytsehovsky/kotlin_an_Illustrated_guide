@@ -4,8 +4,6 @@ fun main() {
 
     val circumference = 2 * pi * radius
 
-    val a = 2 + 3
-    val b = radius
-    val c = 2
+    val a val pi = 3.14
 
 }
