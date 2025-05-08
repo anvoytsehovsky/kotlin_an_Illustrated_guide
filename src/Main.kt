@@ -3,4 +3,5 @@ fun main() {
     val time = 4.15
 
     fun speed(distance: Double, time: Double) = distance / time
+    val averageSpeed = speed(321.8, 4.15)
 }
